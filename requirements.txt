@@ -1,0 +1,6 @@
+pandas==1.2.3
+Scrapy==2.4.1
+requests==2.25.1
+plotly==4.14.3
+beautifulsoup4==4.9.3
+python-dotenv==0.17.0
